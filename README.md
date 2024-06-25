@@ -23,7 +23,7 @@ Fokus é um projeto desenvolvido durante um curso da [Alura](https://www.alura.c
 
 ## 📸 Demonstração
 
-[Clique aqui para ver a demonstração do projeto](https://rafaelpesmeraldo.github.io/fokusproject/)
+[Clique aqui para ver a demonstração do projeto](https://rafaelpesmeraldo.github.io/fokus/)
 
 ## 🙏 Agradecimentos
 
